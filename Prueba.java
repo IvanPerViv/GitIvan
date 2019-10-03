@@ -4,6 +4,8 @@ public class Prueba {
 	
 		System.out.println("Ivan Perez Vivas");
 		System.out.println("Soy de Leon");
+		System.out.println("Mi localidad actual seria Navatejera");
+
 
 	}
 }
